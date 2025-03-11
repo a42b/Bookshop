@@ -18,3 +18,5 @@ plt.xlabel("Book Rating Rank")
 plt.ylabel("Book Price Rank")
 plt.title(f"Price vs Rating (Spearman Correlation: {spearman_corr:.2f})")
 plt.show()
+
+
